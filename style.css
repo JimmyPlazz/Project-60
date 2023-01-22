@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+#ChickenBiriyani{
+    width:100%;
+    height:800px;
+    background: yellow;
+    
+}
+#Sushi{
+    width:100%;
+    height:800px;
+background:aquamarine;
+
+}
+#Pasta{
+    width:100%;
+    height:800px;
+background:blue;
+margin:5px;
+
+}
+img{
+    width:350px;
+    height:350px;
+margin: 10px;
+
+}
